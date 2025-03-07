@@ -1,5 +1,5 @@
 # --- For-Bot-Working --------- #
-git+https://github.com/sanjisama6287/pyrogram
+https://codeload.github.com/gautamajay52/pyrogram/zip/refs/heads/dev
 TgCrypto
 pyromod==1.5
 # --- For-Database ------------ #
@@ -16,8 +16,3 @@ shortzy
 aiohttp
 aiofiles
 asyncio
-Flask==1.1.2
-gunicorn==20.1.0
-Jinja2==3.0.3
-werkzeug==2.0.2
-itsdangerous==2.0.1
